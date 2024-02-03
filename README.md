@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HelioPOliveira (Trying to become a Scientist)
-- 👀 I’m interested in: Data Science / ML / AI / Data Vis 
+- 👀 I’m interested in: Data Science / ML / AI / Data Viz
 - 🌱 I’m currently learning: R / Python / SQL / Data Visualization  
 - 💞️ I’m looking to collaborate on: Anything that is correlated with the subject above ;)
 - 📫 How to reach me: Just send me a messsage 
